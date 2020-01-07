@@ -1,5 +1,7 @@
 {
     "type": "project",
+    "name": "jcarlosjl/template-symfnony-with-docker",
+    "description": "Template for setup new symfony project working with docker",
     "license": "proprietary",
     "require": {
         "php": "^7.1.3",
